@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi, I'm José Luis Ramos 👋
 
-<!--
-**LuisRamos-26/LuisRamos-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 👋
 
-Here are some ideas to get you started:
+I'm a Systems Engineer and Backend Developer passionate about designing and building scalable, secure, and high-performance applications. My expertise includes Java, Spring Boot, PostgreSQL, Docker, Kubernetes, AWS, Terraform, Ansible, and CI/CD practices. I'm always exploring new technologies and continuously improving my software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **Degree:** Systems Engineering
+- 📍 **Location:** El Salvador
+- 💼 **Current Focus:** Backend Development & Cloud Technologies
+- 🌱 **Currently Learning:** Software Architecture, Kubernetes, AWS, Terraform, and CI/CD
+- 💻 **Tech Stack:** Java, Spring Boot, PostgreSQL, Docker, Kubernetes, AWS
+- 🤝 **Open to:** Junior Backend Developer, Java Developer, and Cloud Engineer opportunities
+- ⚡ **Interests:** Backend Development, Microservices, DevOps, Cloud Computing, and Open Source
+- ⚽ **Fun Fact:** I enjoy playing soccer and continuously learning new technologies.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### ☕ Backend
+
+Java • Spring Boot • Spring Security • Hibernate • JPA • REST APIs • JWT
+
+### 🗄️ Databases
+
+PostgreSQL • MySQL
+
+### ☁️ Cloud & DevOps
+
+Docker • Kubernetes • AWS • Terraform • Ansible • Jenkins • GitHub Actions
+
+### 🛠️ Tools
+
+Git • GitHub • IntelliJ IDEA • Postman • Linux • Docker Compose
+
+### 📚 Currently Learning
+
+Microservices • Apache Kafka • CI/CD • Software Architecture
+
+---
+
+## 📫 Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselramos2122@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisRamos-26)
+
+---
+
+### 📊 Most Used Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
