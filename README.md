@@ -1,6 +1,10 @@
 # Hi, I'm José Luis Ramos 👋
 
-Welcome to my GitHub! 👋
+<h3 align="center">
+
+Backend Developer | Systems Engineer | Cloud & DevOps Enthusiast
+
+</h3>
 
 I'm a Systems Engineer and Backend Developer passionate about designing and building scalable, secure, and high-performance applications. My expertise includes Java, Spring Boot, PostgreSQL, Docker, Kubernetes, AWS, Terraform, Ansible, and CI/CD practices. I'm always exploring new technologies and continuously improving my software engineering skills.
 
@@ -19,11 +23,11 @@ I'm a Systems Engineer and Backend Developer passionate about designing and buil
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
 ### ☕ Backend
 
-Java • Spring Boot • Spring Security • Hibernate • JPA • REST APIs • JWT
+Java • Spring Boot • Spring Security • Hibernate • JPA • REST APIs • JWT • Flyway
 
 ### 🗄️ Databases
 
@@ -31,7 +35,7 @@ PostgreSQL • MySQL
 
 ### ☁️ Cloud & DevOps
 
-Docker • Kubernetes • AWS • Terraform • Ansible • Jenkins • GitHub Actions
+Docker • Kubernetes • AWS • Terraform • Ansible • Jenkins • GitHub Actions • Prometheus • Grafana
 
 ### 🛠️ Tools
 
@@ -40,6 +44,12 @@ Git • GitHub • IntelliJ IDEA • Postman • Linux • Docker Compose
 ### 📚 Currently Learning
 
 Microservices • Apache Kafka • CI/CD • Software Architecture
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=LuisRamos-26&color=0e75b6&style=flat)
 
 ---
 
