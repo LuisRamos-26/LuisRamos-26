@@ -23,6 +23,14 @@ I'm a Systems Engineer and Backend Developer passionate about designing and buil
 
 ---
 
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+
+---
+
 ## 🛠️ Tech Stack
 
 ### ☕ Backend
