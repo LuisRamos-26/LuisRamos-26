@@ -24,9 +24,9 @@ I'm a Systems Engineer and Backend Developer passionate about designing and buil
 ---
 
 ### :zap: Actividad reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 
 ---
